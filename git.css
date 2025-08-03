@@ -1,3 +1,13 @@
-h1 {
-	color: red;
+.blocks {
+	display: flex;
+	justify-content: space-around;
+}
+.block {
+	width: 400px;
+	height: 250px;
+	text-align: center;
+	align-content: center;
+	background-color: darkred;
+	border-radius: 20px;
+	font-size: 50px;
 }
