@@ -10,5 +10,12 @@
 	align-content: center;
 	background-color: darkred;
 	border-radius: 20px;
+}
+.block > p {
 	font-size: 50px;
+	color: #554;
+}
+.block > p:hover {
+	color: #fff;
+	font-size: 20px;
 }
