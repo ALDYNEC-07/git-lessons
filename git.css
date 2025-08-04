@@ -1,9 +1,10 @@
 .blocks {
+	width: 100%;
 	display: flex;
 	justify-content: space-around;
 }
 .block {
-	width: 400px;
+	width: 50%;
 	height: 250px;
 	text-align: center;
 	align-content: center;
